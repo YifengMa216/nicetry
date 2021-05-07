@@ -16,7 +16,7 @@ import AdminNewArticle from "../adminNewArticle/AdminNewArticle";
 import AdminManagerTags from "../adminManagerTags/AdminManagerTags";
 import AdminManagerArticle from "../adminManagerArticle/AdminManagerArticle";
 import AdminManagerComment from "../adminManagerComment/AdminManagerComment";
-
+// yige zhushi
 const { change_location_admin } = actions;
 const { Header, Footer, Sider, Content } = Layout;
 
