@@ -19,7 +19,7 @@ import AdminManagerComment from "../adminManagerComment/AdminManagerComment";
 // yige zhushi
 const { change_location_admin } = actions;
 const { Header, Footer, Sider, Content } = Layout;
-
+// sdadadsadasda
 class Admin extends Component {
     constructor(props) {
         super(props);
