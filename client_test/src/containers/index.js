@@ -12,7 +12,7 @@ import { actions } from "../reducers";
 import Admin from "./admin/Admin";
 import Front from "./Front";
 const { clear_msg, user_auth } = actions;
-
+//zhushi lalala
 class AppIndex extends Component {
     constructor(props) {
         super(props);
@@ -64,7 +64,7 @@ class AppIndex extends Component {
         this.props.user_auth();
     }
 }
-
+//mapstate function
 function mapStateToProps(state) {
     return {
         notification: state.globalState.msg,
