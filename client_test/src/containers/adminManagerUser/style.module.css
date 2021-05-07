@@ -1,0 +1,12 @@
+.table {
+  min-height: 600px;
+  margin-top: 10px;
+  margin-left: 5px;
+  margin-right: 5px;
+  box-shadow: 0 0.1rem 0.1rem rgba(0, 0, 0, 0.7);
+  margin-bottom: 15px;
+}
+
+.table ~ div {
+  text-align: center;
+}
